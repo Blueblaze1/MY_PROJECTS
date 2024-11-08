@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .pages{
+            height: 300px;
+            width: 300px;
+            background: #00b7ff;
+            border-radius: 20px;
+            position: absolute;
+            top:calc(50% - 150px);
+            left:calc(50% - 150px);
+        }
+        .input-1{
+            position: absolute;
+            top: 75px;
+            right: 10px;
+            border-radius: 5px;
+            left: 10px;
+        }
+        h1{
+            position: absolute;
+            bottom:230px;
+            left: calc(50% - 89px);
+        }
+        .h5-1{
+            position: absolute;
+            left: 10px;
+            top: 30px;
+        }
+        .h5-2{
+            position: absolute;
+            left: calc(50% - 65px);
+            top: 30px;
+        }
+        .page-1{
+            display: block;
+        }
+        form{
+            left: 10px;
+            position: absolute;
+            top: 70px;
+        }
+        button{
+            width: 150px;
+            height: 30px;
+            border-radius: 10px;
+            background: #2600ff;
+            position: absolute;
+            left: calc(50% - 85px);
+            top: 30px;
+        }
+        a{
+            left: calc(50% + 10px);
+            position: absolute;
+            
+        }
+        .inp{
+            position: absolute;
+        }
+        .errorlist{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    {% if messages %}
+        {% for message in messages %}
+            <div style="position: fixed; background-color: red; width: 100%; top: 0px; left: 0px; right: 0px; height: 30px;">
+                <center><div style="position: absolute; top: calc(0px - 10px); left: calc(50% - 100px);" class="{{ message.tags }}"><h3>{{message}}</h3></div></center>
+            </div>
+        {% endfor %}
+    {% endif %}
+    <div class="pages">        
+        <div>
+            <h1>Text To Docx</h1>
+            {% if typ == "1" %}
+            <h4 class="h5-2">Download Word file</h4>
+            <a style="top: 20px;" href="/media/document.docx" rel="noopener noreferrer"><button type="submit">Download</button></a>
+            <a style="top: 60px;" href="/text_to_decx/" rel="noopener noreferrer"><button type="submit">Back</button></a>
+            {% else %}
+            <h4 class="h5-1">Enter the text</h4>
+            <form method="POST">
+                {% csrf_token %} 
+                <input name="text" type="text">
+                <button type="submit">Sobmit</button>
+            </form>
+            {% endif %}
+        </div>
+    </div>
+
+</body>
+</html>

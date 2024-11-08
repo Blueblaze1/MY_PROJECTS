@@ -1,0 +1,453 @@
+#1. 8781-6275 ayirma qiymatini toping
+A) 2500 B) 2406 +C) 2506 D) 2501
+#2. 9639+8527+7418 yig`indi qiymatini toping
+A) 25883 B) 25884 +C) 25584 D) 25468
+#3. 5592-2869 ayirma qiymatini toping
+A) 2724 +B) 2723 C) 2473 D) 2733
+#4. 787-251 ayirmani aniqlang
+A) 561 B) 546 +C) 536 D) 526
+#5. 486-214 ayirma javobini toping
+A) 271 B) 372 C) 242 +D) 272
+#6. 1-shahar aholisi ikki million yetmish besh ming bo`lib u ikkinchi shahar aholisidan besh  yuz oltmish yetti ming uch yuz yigirma sakkizta  ortiq bo`lsa, ikkinchi shahar aholisini toping
++A) 1507672 B) 2182672  C) 1440172 D) 2642328
+#7. Yig`indining 5 barobarini toping
+ 
+A) 45300 +B) 45350 C) 45305 D) 45643
+#8. Anvar bir son o`yladi, unga 672 ni qo’shib, 1728 ni ayirgan edi Angeladagi son hosil bo`ldi, Anvar qanday sonni o`ylagan?
+
+A) 10257
++B) 10256
+C) 9784
+D) 10345
+
+#9.Quyidagi sonlarning qaysi biri 162 dan eng ko`p marta katta.
+A) 2430 B) 1782 C) 2916 +D) 3726
+#10. Quyidagi ko`paytmalarning qaysi biri eng katta.
+ 
+A) 1 +B) 2 C) 3 D) 4
+#11. 28 x 419  ko`paytma natijasining raqamlari yig’indisini toping.
+A) 13 B) 15 C) 16 +D) 14
+#12. 94 x 5 ko`paytma qiymatini topish uchun to`g`ri tasdiqni toping
+A) 90 ni 5 ga ko`paytirib 15 ni ayirish kerak
+B) 90 ni 5 ga ko`paytirib 25 ni qo`shish kerak
+C) 90 ni 5 ga ko`paytirib 20 ni ayirish kerak
++D) 90 ni 5 ga ko`paytirib 20 ni qo`shish kerak
+#13. Fermadagi jonivorlarning boshlari soni oyoqlari sonidan 300 ta kam bo`lsa bu fermada nechta jonivor bor.
++A) 100
+B) 150
+C) 200
+D) 300
+
+#14. (3658-650)-(1875-870) ning qiymatini toping
+A) 2008 +B) 2003 C) 1008 D) 1003
+#15.   raqamlar yordamida hosil qilish mumkin bo`lgan eng katta va eng kichik 5 xonali sonlar ayirmasini toping.
++A) 66951 B) 61821 C) 62451 D) 62471
+#16.Quyidagi tengliklardan qaysi biri to`g`ri
+A) 23 =32 +B) 42=16 C) 82=32 D) 32=6
+#17. a:(b-c·(x+d)) ifodada qo`shish amali qaysi o`rinda bajariladi
++A) 1-o`rinda B) 2-o`rinda C) 3-o`rinda D) 4-o`rinda
+#18. 38·(14+32) ifodada qavs to`g`ri ochib yozilgan qatorni aniqlang
+A) 38·14+32 B) 14+38·32 +C) 38·14+32·38 D) 38·14-32·14
+#19. a+(b-c:(x +d·y)) ifodada bo`lish amali qaysi o`rinda bajariladi
+A) 1- o`rinda B) 2- o`rinda C) 4-o`rinda +D) 3-o`rinda
+#20. 3<a<10 sonlar orasida nechta natural son bor A) 5 B) 7 +C) 6 D) 8
+#21. 4<a<15 sonlar orasida nechta tub son mavjud +A) 4 B) 6 C) 5 D) 3
+#22. 0<a<10 sonlar orasida nechta tub son mavjud +A) 4 B) 5 C) 3 D) 6
+#23. 6 soni bilan quyidagi sonlarning qaysi biri o`zaro tub bo`ladi A) 15 B) 22 +C) 17 D) 18
+#24. Quyidagi sonlarning qaysi biri 45 soni bilan o`zaro tub bo`ladi
+A) 12 B) 108 +C) 117 D) 1
+#25. 12·15+12·27-23·42 ning qiymatini toping
+A) 462 +B) -462 C) 128 D) 253
+#26. 45·44-44·42+3·12 ning qiymatini toping
++A) 168 B) 158 C) -168 D) 170
+#27. 1112131415…29303132 sonining raqamlar yig`indisini toping
+A) 132 B) 121 +C) 131 D) 141
+#28. 1234…121314…3940 sonining raqamlari yig`indisini toping
+A) 245 B) 240 +C) 244 D) 284
+#29. 106 soni necha xonali bo`ladi
+A) 5 B) 6 +C) 7 D) 8
+#30. 108 soni necha xonali son bo`ladi
+A) 8 B) 7 +C) 9 D) 10
+#31. 2·107 soni necha xonali son bo`lishini aniqlang A) 7 +B) 8 C) 9 D) 6
+#32. 105+26 soni necha xonali bo`lishini aniqlang A) 7 +B) 6 C) 5 D) 8
+#33. 256314 sonini so`zlar bilan yozing
+A) ikki yuz ellik olti ming uch yuz o`n ming
+B) ikki yuz ellik olti ming uch yuz o`n to`rt ming
++C) ikki yuz ellik olti ming uch yuz o`n to`rt
+D) ikki yuz ming besh yuz o`ng to`rt
+#34. Ikki million to`rt yuz ellik ming besh yuz qirq olti sonini raqamlar bilan yozing
+A) 245546 +B) 2450546 C) 2045546 D) 245546
+#35. 5·108+2·103 ifoda qiymati necha xonali son bo`ldi A) 8 B) 7 +C) 9 D) 10
+#36. 106-36 ayirma qiymati necha xonali son bo`ladi A) 5 +B) 6 C) 7 D) 4
+#37. 3/2;-6;0;14;15/4;3,6 sonlari orasida nechta butun son bor +A) 4 B) 5 C) 3 D) 2
+#38.  shu munosabat to`g`ri bo`lmaydigan a o`rniga nechta raqam qo`yish mumkin
+A) 4 +B) 6 C) 5 D) 7
+#39.  sonida 8 raqami qaysi xona birligida ekanligini aniqlang
+A) minglar +B) o`n minglar C) yuz minglar D) millionlar
+#40. 3781 sonining xona birliklari bo`yicha to`g`ri ajratilgan javobni aniqlang
+A) 3·102+7·103+8·10+1
++B) 3·103+7·102+8·10+1
+C) 3·102+7·103+8·100+1
+D) 3·101+7·102+8·103+104
+#41. -3,2 sonidan 5 birlik o`ng tomonda qanday son bo’ladi
++A) 1,8 B) -1,8 C) 2 D) -2
+#42. -3+5-2·(-1) ning qiymatini toping
+A) -6 B) 0 +C) 4 D) 2
+#43. -3·(-2)+4·(-1)-(-2) ning qiymatini toping
+A) 3 B) 12 C) 0 +D) 4
+#44. (-1)2-3+(-2):(-1) ning qiymatini toping
++A) 0 B) -4 C) 3 D) 1
+#45. -2+(-2)-(-3):(+2) ning qiymatini toping
+A) -5,5 B) 2,5 +C) -2,5 D) 5,5
+#46. (-2)3+(-3)2 ning qiymatini toping
+A) -17 B) 17 +C) 1 D) -1
+#47. a=(-2)2 va b=-22 sonlarini taqqoslang
+A) a>b B) a<b +C) a=b D) a=b+1
+#48. a=(-2)3 va b=(-3)2 ning qiymatini toping
+A) a>b +B) a<b C) a=b D) a=b-1
+#49. 59,08 sonining xona birliklari bo`yicha yoyilmasini toping
++A) 5·101+9·100+8·10-1
+B) 5·101+9·100+8·10-3
+C) 5·101+9·100+8
+D) 5·101+9·100+8·10-2+0·10-1
+#50. 810,543 sonida 5 raqami qaysi xona birligida ekanligini aniqlang
++A) minglar xonasi B) birlar xonasi C) o`ndan birlar xonasi D) yuzdan birlar xonasi
+#51. 754,108 sonida 8 raqami qaysi xona birligida ekanligini aniqlang
+A) minglar xonasi B) yuzlar xonasi C) mingdan birlar +D) birlar xonasi
+#52. 1478 sonini o`nlar xonasigacha yaxlitlang
+A) 1508 B) 1507 +C) 1480 D) 1400
+#53.8512 sonini minglar xonasigacha yaxlitlang
+A) 9000 B) 8500 +C) 8510 D) 9001
+#54. 54,75 sonini birlar xonasigacha yaxlitlang
++A) 55,00 B) 54,00 C) 55,75 D) 55,70
+#55. 2,8+3,7·2-0,86 ifoda qiymatini o`ndan birlar xonasigacha yaxlitlang
+A) 9,34 B) 9 +C) 9,3 D) 9,1
+#56. 8,354>8,3a4 tengsizlik to`g`ri bo`lsa, a ning nechta qiymati borligini aniqlang
+A) 4 +B) 5 C) 6 D) 3
+#57. 8,354≥8,3a4 tengsizlik to`g`ri bo`lsa, a ning nechta qiymati borligini aniqlang
+A) 4 B) 5 +C) 6 D) 3
+#58. 5,08+3,12:0,4-5·0,01 ifoda qiymatini birlar xonasigacha yaxlitlang
+A) 12,83 B) 13,03 +C) 13 D) 13,83
+#59. x+y ning qiymatini toping
+A) 4
++B) 40
+C) 51
+D) 32
+
+#64.    kasrlarni taqqoslang
++A) b>c>a B) a>b>c C) c>b>a D) c>a>b
+#66.  shakllarga mos qiymatni aniqlang
+A)3/4  B)5/4 C)2  +D)11/4
+#67. Shaklga mos keluvchi qiymatni toping
+A) 2/8   +B) 7/8  C) 7/2   D) 8/2
+ 
+
+#68.  tenglikdan a ning qiymatini toping
+
++A) 14 B) 15 C) 7 D) 8
+#69. A+B-C+D ning qiymatini toping
+
+A) -1/5 +B) -2,4 C) 11/5 D) 1/5
+
+
+#70. Tenglikdan     ning qiymatini toping
+
++A) 1 B) 2 C) 3 D) 6
+#71.  bo`linma qiymatini aniqlang
+
++A) 5/9 B) 3/4 C) 2/7 D) 8/9
+#72. Ikkinchi ustun, ikkinchi satr qiymatini toping
+
+          
+
+A) 27/25   +B) 25/27  C) 7/5  D) 5/7
+
+#73. Ikkinchi ustun, ikkinchi satr qiymatini toping
+
+            
+
++A) 37/24  B) 24/37  C) 7/4  D) 4/7
+
+#74.  ning qiymatini toping
+A) 10 +B) 10/3 C) 6 D) 3
+
+#75.   bo’lsa,  ning qiymatini toping
+A) 75 B) 75,3 +C) 75,03 D) 75,003
+#76. Noma`lum hadni aniqlang
+ 
+A) 2  B) 6 C) 6,2 +D) 2,6
+#77. Oxirgi natijani aniqlang
+ 
+A) 0,5 +B) 0,7 C) 0,6 D) 0,1
+#78.  ning qiymatini toping
++A) 1 B) 0,5 C) 0,25 D) 2
+#79. Uchta pomidorni 5 kishi teng taqsimlab olsa har biriga qanchadan bo`lak bo`ladi
+A) 5/3  B) 1/5 +C) 3/5 D) 4/5
+#80.   ning qiymatini toping
+
+A) 3/7 +B) 10/7 C) 7/10 D) 7/3
+#81.  ning qiymatini toping
+
+A) 11 B) 3/11 +C) 11/3 D) 5/3
+#83   ning qiymatini toping
+A) 7 B) 7/8 +C) 8/7 D) 8
+#84.  ning qiymatini toping
+A) 14/5 +B) 14/15 C) 5/14 D) 15/14
+#85. Ifoda qiymatini toping.
+A) 20/3 +B) 23/4 C) 15/7 D) 23/8
+#86. 73251 sonini 5 ga bo`lgandagi qoldiqni toping
+A) 2 B) 3 C) 4 +D) 1
+#87. 842;429;636;227;648 sonlarning nechtasi 6 ga qoldiqsiz bo`lindi
+A) 1 B) 2 +C) 3 D) 4
+#88.   sonini 9 ga bo`lganda qoldiq qolmasa,  ning qiymatini toping
++A) 7 B) 8 C) 6 D) 2
+#89.  soni 3 ga qoldiqiz bo’linsa,   ning qiymatini toping
+A) 1;4 B) 4;7 C) 1;7 +D) 1;4;7
+#90.   soni 3 ga ham 5 ga ham qoldiqsiz bo`linsa,  qanday qiymatni qabul qilmaydi
+A) 2;5;8 B) 1;2;5 C) 2;5;9 +D) 0;3;6;9
+#91. Quyidagilar orasidan A ning eng kichik qiymatini toping
+
+ 
+
++A) 49  B) 59 C) 57 D) 52
+#92.  soni 5 ga ham 9 ga ham bo`linsa,  ning qiymati nechta
+A) 1 B) 2 +C) 3 D) 4
+#93.  sonini 5 ga bo`lgandagi qoldiq, 2 ga bo`lganadagi qoldiqdan qancha ko`p
+A) 1 B) 3 C) 5 +D) 2
+#94. A+B ning qiymatini toping.
+ 
++A) 151 B) 155 C) 161 D) 163
+#95. a ning eng katta qiymatini toping
+ 
+A) 72 B) 74 C) 76 +D) 79
+
+#97. A ning raqamlari yig`indisini toping
+ 
++A) 21 B) 15 C) 10 D) 22
+#98. K va B ning yig`indisini toping
+ 
+A) 18 B) 22 +C) 21 D) 17
+
+#99. K ning eng kichik qiymatini toping
+ 
+A) 2  B) 3  C) 4  +D) 1
+#100. A ning eng kichik qiymatini toping
+ 
+A) 65 B) 63 +C) 61 D) 64
+
+#101. M ning qabul qilishi mumkin bo`lgan eng katta qiymatini toping
+ 
+A) 15 B) 12 +C) 13 D) 9
+#102.A ning eng kichik qiymatini toping
+ 
+A) 70 B) 72 +C) 71 D) 68
+#103. B ning eng katta qiymatini toping
+ 
+A) 106 +B) 107 C) 112 D) 118
+#104. Bo`linma va qoldiqning yig`indisini toping
+ 
+A) 40 +B) 45 C) 36 D) 25
+#105. K ning raqamlari yig`indisini toping
+ 
+A) 15 B) 13 C) 17 +D) 12
+#106. Berilgan amaldan eng kichik qoldiqni aniqlang
+ 
+A) 0 B) 1 C) 2 +D) 3
+#107.  sonini 3 ga bo`lganda qoldiq qolmasa,   ning qiymatlari yig’indisini toping
+A) 10 B) 11 +C) 12 D) 15
+#108.  sonini 10 ga bo`lganda 9 qoldiq qoladi, shu sonni 5 ga bo`lgandagi qoldiqni toping
+A) 2 B) 1 +C) 4 D) 6
+#109.  sonini 9 ga bo`lganda 2 qoldiq qoladi,  raqamining qiymatini toping
+A) 10 B) 2 C) 5 +D) 1
+#110.  sonini 10 ga bo`lganda 7 qoldiq qoladi va bu son 9 ga qoldiqsiz bo`linadi. ning  qiymatini toping
++A) 8 B) 2 C) 3 D) 7
+#111.  soni 6 ga qoldiqsiz bo`linsa,  raqamni aniqlang
+A) 1 B) 2 C) 3 +D) 4
+#112. 7243 sonini 4 ga bo’lganda  qoldiq, 9 ga bo`lganda  qoldiq qoladi.  ning qiymatini toping
++A) 10 B) 8 C) 9 D) 5
+#113.  sonini 5 ga bo`lganda 2 qoldiq qoladi va 9 ga qoldiqsiz bo`linadi,   raqamning qiymatini toping
+A) 8 B) 3 +C) 8;3 D) 1
+#114.Bo`lish amalidan qoldiq  ga teng  bo`lsa,   raqamning qiymatini toping
+ 
+A) 2 B) 3 +C) 4 D) 6
+#115.  sonini 10 ga qoldiqsiz bo`linishini bilgan holda  raqamining qiymatlari yig`indisini toping
+A) 7 B) 10 C) 33 +D) 45
+#116. Quyidagilarning qaysi biri 3 ga qoldiqsiz bo`linadi
+A) 2121053 +B) 1267200 C) 2734510 D) 2001257
+#117.  soni 45 ga qoldiqsiz bo`linsa,  raqamning qiymatlari yig`indisini toping
+A) 10 +B) 11 C) 12 D) 15
+#118.  soni 3 ga qoldiqsiz bo`linsa,   raqamning qiymatini toping
+A) 3 B) 6;9 C) 3;6 +D) 3;6;9
+#119.  soni 4 ga qoldiqsiz bo`linadigan   raqamining qiymatlarini toping
+A) 4;6 +B) 2;6 C) 0;2;4;6;8 D) 0;4;8
+#120. 32x56 soni 11 ga qoldiqsiz bo`linsa, x ning qiymatini toping
+A) 1 B) 5 +C) 9 D) 6
+#1. 15·21 ko`paytma natijasi quyidagilarning qaysi biriga teng emas
+A) 15·6+15·15
+B) 20·15+15
++C) 10·5·21
+D) 10·21+5·21
+
+#2. Shaklga mos qiymatni aniqlang
+
+ 
+
+A) 2,3 +B) 2,25 C) 2,5 D) 2,1
+#3. Shaklning qancha qismi bo`yalgan
+
+ 
+A) 1/3 B) 2/7 +C) 2/5 D) 3/10
+
+#4. Sportchining bosib o`tgan masofasini aniqlang
+ 
+A) 1 B) 1,7 +C) 1,07 D) 1,007
+#5. ? ning qiymatini birlar xonasigacha yaxlitlang. +A) 7 B) 6 C) 5 D) 6,5
+ 
+#6. Qo`shish amalidan foydalanib m+n+p ning qiymatini toping
+ 
+A) 18 +B) 19 C) 20 D) 21
+#7. Ayirma qiymatini aniqlang
+ 
++A) 1 B) 0,75 C) 0,25 D) 0
+#8. 431+1,5+31,05 ifoda qiymatini xona birliklariga to`g`ri ajratilgan javobni aniqlang
+A) 4·102+6·101+3·100+5·10-1
++B) 4·102+6·101+3·100+5·10-1+5·10-2
+C) 4·102+6·101+3·100+5·10-2
+D) 4·102+6·101+3·100+5·10-1
+#10. x+y natijaning eng katta qiymatini toping
+ 
++A) 8 B) 2 C) -3 D) -8
+#11. Ifoda qiymatini toping
+ 
+A) 3/5 +B) 33/56 C) 56/33 D) 5/3
+#12. Ifoda qiymatini toping
+ 
+
+A) 13/6 B) 6/13 +C) -13/6 D) 7/6
+#13. 2 ga ham 3 ga ham bo`lganda qoldiq bir bo`ladigan 20 dan kichik nechta natural son bor A) 1 B) 2 +C) 3 D) 4
+#14. A natural sonni 5 ga bo`lganda bo`linma n ga qoldiq n2 ga teng bo`ldi, A ning eng kichik qiymatini toping
+A) 6 +B) 14 C) 9 D) 8
+#121. 5;11;1;0;4;2;48;72 sonlari orasida nechta tub son mavjud
+A) 2 +B) 3 C) 4 D) 5
+#122. Tub sonlar uchun to`g`ri tasdiqni toping
+A) ikkita turli tub son o`zaro tub bo`ladi
+B) toq va juft sonlar o`zaro tub bo`ladi
++C) EKUBi 1 dan farqli bo`lgan sonlar o`zaro tub sonlar deyiladi
+D) 1 eng kichik tub son hisoblanadi
+#123. Quyidagi juftliklar orasidan o`zaro tub bo`lganini aniqlang
++A) (1;8) B) (5;15) C) (14;56) D) (20;84)
+#124. 80 soni tub ko`paytuvchilarga to`g`ri ajratilgan javobni aniqlang
++A) 23·5 B) 23·3·5 C) 24·5 D) 2·5·8
+#125. 234 sonini tub ko`paytuvchilarga ajrating
+A) 2·3·39 B) 22·3·13 +C) 2·32·13 D) u tub son ko`paytuvchiga ajratilmaydi
+#126. 56 sonining tub bo`luvchisi nechta
+A) 1 +B) 2 C) 3 D) 0
+#127. 840 sonining tub bo`luvchilari nechta
+A) 1 B) 2 +C) 3 D) 4
+#128. 840 sonining tub ko`paytuvchilardagi yoyilmasini toping
+A) 23·3·5 B) 3·5·7 +C) 23·3·5·7 D) 24·3·7·5
+#129. EKUB(15;24) ning qiymatini toping
+A) 1 B) 2 +C) 3 D) 4
+#130. EKUB(20;56) ning qiymatini toping
++A) 4 B) 5 C) 2 D) 3
+#131. EKUK(7;14) ning qiymatini toping
+A) 7 +B) 14 C) 28 D) 56
+#132. EKUK(48;60) ning qiymatini toping
+A) 480 +B) 240 C) 120 D) 360
+
+#1. berilgan sonlar o`rta arifmetigini toping
+A) 93 B) 94 C) 95 +D) 93,5
+#2. A idishdagi mahsulot massasi B idishdagi mahsulot massasidan 7 marta katta bo`lsa, A va B idishdagi mahsulotlar massalari farqini toping
+ 
++A) 18 B) -18 C) 6 D) 12
+#3. EKUB(54;a)=18 va EKUK(54;a)=216  bo`lsa, a ning qiymatini toping
++A) 36 B) 48 C) 54 D) 72
+#4. Birinchi nihol kuniga 15 sm, ikkinchi nihol esa 10 sm ga o`sadi. Agar ularning uzunliklari 10 kundan keyin tenglashgan bo`lsa, A necha sm ga teng.
+  
+A) 50 sm +B) 78 sm C) 48 sm D) 52 sm
+#5. A va B ning EKUBi , C va D ning EKUBidan nechta ortiq.
+ 
+A) 1 B) 2 C) 0 +D) -1
+#6.   bo`lsa,  ning qiymatini toping
+A)66/8  B)43/8  C)44/8  +D)67/8
+#7. Quyidagi mashinalardan qaysi birining balandligi taqriban 4 ga teng
+A)     B)     +C)    D)  
+#8.   va   bo’lsa,   ning qiymatini toping
+A) 3,5 B) 3,75 +C) 4,5 D) 4,75
+#9.   tenglikdan   ning qiymatini toping
+A) -12 +B) -9 C) 9 D) 18
+#11.  tengliklardan   ning qiymatini toping
++A) -10 B) -9 C) -8 D) -7
+#12. Iplarning har biridan 4 to`pdan olindi, Agar har bir ipning bir metri 200 so`mdan bo`lsa, xaridor necha so`m to`laydi.
+ 
+A) 41000 B) 4080 C) 408000 +D) 40800
+#13. Tengliklardagi qonuniyatni aniqlab  ning qiymatini toping
+
+    
+
++A) 2-2 B) 2-10 C) 210 D) 22
+#15. 10 dan kichik 1 bilan o`zaro tub bo`lgan sonlar nechta
+A) 10 +B) 8 C) 9 D) 7
+#151.   ikki xonali son bo`lsa, x ning nechta qiymati bor
++A) 10 B) 90 C) 45 D) 9
+#152.   ikki xonali son bo`lsa, x ning qiymati nechta
++A) 10 B) 9 C) 90 D) 45
+#153.   uch xonali son bo`lsa, x va z ning qiymatlari sonini yig`indisini toping
++A) 20 B) 10 C) 19 D) 18
+#154. Oxirgi raqami 5 bo`lgan 3 xonali sonlar nechta
++A) 90 B) 100 C) 450 D) 240
+#161. 5sm3mm ni mm da ifodalang
+A) 503mm B) 5,3mm +C)53 mm D)0,53mm
+#162. 1,2 m ni sm da ifodalang
++A) 120 sm B) 12 sm C) 1200 sm D) 102 sm
+#163. 7dm 2sm 3 mm necha mm ga tengligini aniqlang
+A) 7023 mm B) 7203mm +C) 723 mm D) 7230 mm
+#164. 4 sm2 maydon necha mm2 ga teng bo`ladi
+A) 40 +B) 400 C) 4000 D) 40000
+
+#166. Soat 3:20 bo`lsa, α burchakni toping
+ 
+A) 200 +B) 300 C) 400 D) 100
+#167. Soat 13:30 bo`lsa, α burchakni toping
+ 
+A) 1200 +B) 2250 C) 1500 D) 2000
+
+#168. Soat 15:42 bo`lsa, α burchakni toping
+ 
+A) 139  B) 141  C) 152  +D) 120
+#169. 7t 3sr 40kg+2t 9sr 20kg ning qiymatini toping
+A) 9t 5sr 30kg B) 10t 26kg  C) 10t 2sr +D) 10t 2sr 60kg
+#170. 2m2 3sm2 5mm2 ning qiymatini mm2 da ifodalang
+A) 20305 B) 200305 +C) 2000305 D) 2305
+#171. 3 dm3  5litr ning qiymatini litrda ifodlang
+A) 8 litr B) 5 litr +C) 3,5 litr D) 3,05 lir
+#172. 3x-4=8+x tenglamani bajaring
+A) 5 B) 4 +C) 6 D) 7
+#173. 2x+8=6+x tenglamani yeching
++A) -2 B) 1 C) 2 D) 0
+#174. 2(x-2)-3(x+1)= -6 tenglamani bajaring
++A) -1 B) 1 C) 0 D) 2
+#175. -3(x-1)+2(x-7)=10 tenglamani bajaring
++A) 21 B) -21 C) 20 D) -20
+#176. 2y-(y+2)=5 tenglamani bajaring
++A) 7 B) 6 C) -5 D) -7
+#177.  tenglamani bajaring
+A) 8 B) 5 C) 5/8 +D) 8/5
+#178.   tenglamani bajaring
++A) 2 B) -2 C) 3 D) -1
+#179.  tenglikdan x ni toping
+A) 3 B) 2 C) 2/3 +D) 1,5
+#180.  bo`lsa, x ning qiymatini toping
++A) 6 B) -6 C) 5 D) -5
+#181.  tenglikdan x ning qiymatini toping
+A) -2 B) -5 +C) -2/5 D) 5/2
+#182.  tenglikdan x ning qiymatini toping
++A) -6 B) 6 C) 3 D) -3
+#183.  tenglamani bajaring
++A) -1 B) 1 C) 2 D) 3
+#184.  tenglikda x=1 bo`lsa, a ning qiymatini toping
+A) 2 B) -1 C) -2 +D) 1
+#185.  tenglikda y=1 bo`lsa, x ning qiymatini toping
++A) 3 B) -3 C) -2 D) 2
+#186.  tenglamani bajaring
+A) 2 +B) 4 C) -4 D) 8
